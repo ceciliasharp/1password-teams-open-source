@@ -270,3 +270,7 @@ Fast, simple and clean video downloader built with Go. https://github.com/iawia0
 ### MOSA-Chicago - Midwest Open Source Alliance
 The Midwest Open Source Alliance promotes the education, support and development of Drupal and related open source software within the Midwest Drupal community. We are a federal 501(c)(3) tax exempt organization. As such, we will be acting as fiscal sponsor for open source software events in the Midwest (such as [MidCamp](https://midcamp.org)), as well as looking to help launch new events or initiatives around the software community.
 https://midwestopensourcealliance.org/
+
+### Swetugg webb
+A website for hosting conferences or simular things. Complete with backoffice for handling call for papers and publishing speakers and session. Swetugg is a community driven conference but hence the name it can be used for other conferences as well
+https://github.com/Swetugg/swetugg-web
